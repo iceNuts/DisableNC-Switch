@@ -1,0 +1,11 @@
+Package: com.icenuts.disablencswitch
+Name: DisableNCSwitch
+Depends: mobilesubstrate
+Version: 0.0.1-123
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: _iceNuts
+Depends: applist (>= 1.4.1)
+Author: _iceNuts
+Section: Tweaks
+Installed-Size: 60

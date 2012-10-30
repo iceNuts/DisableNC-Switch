@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = DisableNC;
+	cell = PSLinkCell;
+	detail = DisableNCListController;
+	icon = Icon-Small.png;
+	isController = 1;
+	label = DisableNCSwitch;
+    };
+}
